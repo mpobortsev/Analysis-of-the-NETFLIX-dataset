@@ -1,6 +1,6 @@
 # Netflix Dataset Analysis and Visualization
 
-This project explores a dataset from Netflix to provide insights into various aspects of its content library. Using Python and data visualization tools, I found key infornation and presented findings through interactive charts and graphs.
+This project explores a dataset from Netflix to provide insights into various aspects of its content library. Using Python and data visualization tools, I found key information and presented findings through interactive charts and graphs.
 
 ## Key research points
 
